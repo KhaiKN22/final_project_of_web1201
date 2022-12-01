@@ -19,7 +19,7 @@
             </p>
             <button class="submit-button" name="login"><a href="login.php"
             style="color: #fff; text-decoration: none;">Login</a></button>
-            <button class="submit-button" name="index"><a href="include/logout.inc.php"
+            <button class="submit-button" name="index"><a href="index.php"
             style="color: #fff; text-decoration: none;">Continue as guest</a></button>
         </div>
     </header>
